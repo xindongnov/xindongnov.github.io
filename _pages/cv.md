@@ -12,7 +12,7 @@ PDF Version [[CV](/assets/pdf/cv/CV_XinDong_online.pdf)]
 ## RESEARCH APPOINTMENTS
 
 **Jul. 2026 – Present**  
-Postdoctoral Researcher
+Postdoctoral Researcher  
 Department of Chemistry, University of Chicago  
 Advisor: Prof. Chuan He & Prof. Mengjie Chen
 
