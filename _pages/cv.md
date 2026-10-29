@@ -10,32 +10,32 @@ PDF Version [[CV](/assets/pdf/cv/CV_XinDong_online.pdf)]
 
 ## RESEARCH APPOINTMENTS
 
-**Jul. 2026 – Present**
-Postdoctoral Researcher
-Department of Chemistry, University of Chicago
-Advisor: Prof. Chuan He & Prof. Mengjie Chen
+**Jul. 2026 – Present**  
+Postdoctoral Researcher  
+Department of Chemistry, University of Chicago  
+Advisor: Prof. Chuan He & Prof. Mengjie Chen  
 
-**Sep. 2025 – Jul. 2026**
-Research Scientist
-Sycamore Research Institute of Life Sciences, Shanghai
+**Sep. 2025 – Jul. 2026**  
+Research Scientist  
+Sycamore Research Institute of Life Sciences, Shanghai  
 
-**May 2025 – Sep. 2025**
+**May 2025 – Sep. 2025**  
 Bioinformatician (Part-time)  
-GV20 Therapeutics LLC
+GV20 Therapeutics LLC  
 
-**Jul.2024 – Sep.2025**
+**Jul.2024 – Sep.2025**  
 Research Assistant  
-School of Life Sciences and Technology, Tongji University
+School of Life Sciences and Technology, Tongji University  
 
 ## EDUCATION
 
-**Sep.2018 – Jul.2024**
-Ph.D. in Biology
-School of Life Sciences and Technology, Tongji University, China
+**Sep.2018 – Jul.2024**  
+Ph.D. in Biology  
+School of Life Sciences and Technology, Tongji University, China  
 
-**Sep.2014 – Jun.2018**
-B.S. in Biotechnology
-School of Life Sciences, Shandong Normal University, China
+**Sep.2014 – Jun.2018**  
+B.S. in Biotechnology  
+School of Life Sciences, Shandong Normal University, China  
 
 ## CONFERENCES
 
