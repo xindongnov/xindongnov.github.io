@@ -100,7 +100,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:xindongnov@gmail.com"
+      url: "mailto:xindong@uchicago.edu"
     - label: "X"
       icon: "fab fa-fw fa-x-twitter"
       url: "https://twitter.com/xindongnov"
@@ -114,7 +114,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-square-envelope"
-      url: "mailto:xindongnov@gmail.com"
+      url: "mailto:xindong@uchicago.edu"
     - label: "X"
       icon: "fab fa-fw fa-square-x-twitter"
       url: "https://twitter.com/xindongnov"
